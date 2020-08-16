@@ -1,0 +1,557 @@
+@media screen and (max-width: 1199px) {
+  .main-page__offer-title {
+    font-size: 70px;
+  }
+  .tel {
+    font-size: 13px;
+  }
+
+  .main-menu__item a {
+    padding: 9px 5px;
+  }
+
+  .slider__arrow_left {
+    position: absolute;
+    left: -105px;
+  }
+
+  .slider__arrow_right {
+    position: absolute;
+    right: -60px;
+  }
+
+  .tel__box {
+    margin-left: 80px;
+  }
+
+  .header__tel-icon_other {
+    top: 3px;
+    left: -8px;
+  }
+
+  .header__tel-icon_other:hover {
+    top: -5px;
+    left: -20px;
+  }
+
+  .header__tel-icon_main:hover {
+    left: -30px;
+  }
+
+  .footer__tel-icon {
+    left: 45px;
+    top: 10px;
+  }
+
+  .footer__tel-icon_moving {
+    top: 2px;
+  }
+
+  .footer__span {
+    margin-left: 30px;
+  }
+
+  .intouch__form {
+    width: 100%;
+  }
+
+  .intouch__form button {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+  }
+
+  .intouch__form input {
+    width: 100%;
+  }
+
+  .intouch__form {
+    padding: 40px 30px;
+  }
+
+  /*---------MOVE------------*/
+
+  .title_page-other_move {
+    top: 0;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .header__tel-icon_main {
+    left: 0;
+    left: 55%;
+  }
+
+  .header__tel-icon_main:hover {
+    left: 0;
+    left: 55%;
+  }
+
+  .header__tel-icon_other {
+    left: 57%;
+  }
+
+  .header__tel-icon_other:hover {
+    left: 55%;
+  }
+
+  .small-menu {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 280px;
+    right: 20px;
+    top: 60px;
+    padding: 40px;
+    border-radius: 4px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.38);
+    z-index: 999;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .hamburger {
+    background: transparent;
+    border: 0;
+    color: white;
+
+    font-size: 25px;
+  }
+
+  .visible {
+    display: block !important;
+  }
+
+  .tel-other {
+    border-bottom: none;
+  }
+
+  .only_phone-one {
+    position: relative;
+    top: 10px;
+  }
+
+  .only_phone-two {
+    display: block;
+    position: relative;
+    bottom: 10px;
+  }
+
+  .main-page__offer-title {
+    font-size: 55px;
+    letter-spacing: 0.3em;
+  }
+
+  .main-page__offer-text {
+    font-size: 44px;
+  }
+
+  .list-item_third {
+    margin-top: 20px;
+  }
+
+  .list-item_third .list-item__text_whide-pad {
+    padding: 0 140px;
+  }
+
+  .list-item__text_short-pad {
+    padding: 0 24px;
+  }
+
+  .moving__box {
+    padding: 40px 0;
+  }
+
+  .slide {
+    margin: 0 60px 35px 50px;
+  }
+
+  .fa-angle-right {
+    left: 95%;
+  }
+
+  .fa-angle-left {
+    left: 0px;
+    z-index: 9;
+  }
+
+  .feedback__form-text {
+    text-align: left;
+    position: relative;
+  }
+
+  .feedback-vk {
+    margin-right: 0px;
+  }
+
+  .hidden_span {
+    border-bottom: 1px dashed white;
+  }
+
+  .about .container,
+  .intouch .container,
+  .moving-section .container {
+    margin-top: 0;
+    background-color: #fff;
+    padding: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .intouch,
+  .moving-section,
+  .about {
+    background-color: #fff;
+  }
+
+  /* --- ABOUT PAGE --- */
+
+  .title_page-other {
+    font-size: 46px;
+  }
+
+  .about-results__span {
+    font-size: 18px;
+  }
+
+  .intouch__form button {
+    padding: 20px 28px;
+  }
+
+  .move-block__img-house {
+    width: 100%;
+  }
+
+  /*---------MOVE------------*/
+
+  .title_page-other_move {
+    top: 0;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .slider {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .main-page__offer-title {
+    font-size: 45px;
+    letter-spacing: 0.2em;
+  }
+
+  .title_page-other_move {
+    font-size: 38px;
+    line-height: 1.5;
+    top: 10px;
+    left: -10px;
+  }
+
+  .icon_move {
+    margin-top: 50px;
+  }
+
+  .main-page__offer-text {
+    font-size: 40px;
+  }
+
+  .phone-other {
+    position: relative;
+    top: -5px;
+  }
+
+  .tel-other {
+    font-size: 10px;
+  }
+
+  .only_phone-two {
+    position: relative;
+    bottom: 0;
+  }
+
+  .header__tel-icon_other {
+    left: 0%;
+    left: -35px;
+  }
+
+  .header__tel-icon_other:hover {
+    left: 0%;
+    left: -45px;
+  }
+
+  .advantages__list-item {
+    margin-bottom: 20px;
+
+    width: 100%;
+  }
+
+  .list-item__text_short-pad,
+  .list-item__text_whide-pad,
+  .list-item_third .list-item__text_whide-pad {
+    padding: 0;
+  }
+
+  .list-item_third {
+    margin: 0 auto;
+  }
+
+  .hidden_span {
+    display: none;
+  }
+
+  .slider {
+    text-align: center;
+  }
+
+  .slide {
+    padding: 0;
+    margin-bottom: 0;
+  }
+
+  .client {
+    left: 35%;
+    top: 15px;
+    position: relative;
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  .feedback__title {
+    padding: 0;
+  }
+
+  .feedback__form-text {
+    width: 450px;
+    padding: 60px 10px 10px 10px;
+    left: 0;
+    top: -40px;
+    text-align: center;
+  }
+
+  .feedback-span {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .feedback-vk {
+    margin: 0;
+    padding: 10px 0 10px 0;
+    display: block;
+    border-bottom: none;
+  }
+
+  .feedback-vk:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    position: relative;
+    left: 0px;
+    border-bottom: 2px solid #23aae2;
+  }
+
+  .feedback__paragraf {
+    padding: 0 30px;
+  }
+
+  .spann {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  .contact-form__main-title {
+    width: 100%;
+  }
+
+  .footer__span {
+    padding-left: 80px;
+    margin-left: 0;
+  }
+
+  .about-card__title {
+    padding: 0;
+    margin-bottom: 25px;
+  }
+
+  .about-results__clients-title {
+    font-size: 30px;
+  }
+
+  .about-results__clients-text {
+    font-size: 11px;
+  }
+
+  .about-results__house {
+    font-size: 20px;
+  }
+
+  .about-results__span {
+    font-size: 13px;
+  }
+
+  .partner-card {
+    padding: 10px;
+  }
+
+  .socials-list__item {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15px;
+  }
+
+  .socials-list__item img {
+    position: relative;
+    left: 10px;
+  }
+
+  .socials-list__item-title {
+    margin: 12px 0;
+    padding: 0;
+  }
+
+  .intouch__form {
+    margin-top: 30px;
+  }
+
+  .move-block__img-house {
+    width: auto;
+    padding-bottom: 25px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .move-block__img-package {
+    width: 55%;
+    padding: 25px 0;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .moving-card__title,
+  .move-block__text {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  footer {
+    padding: 10px;
+  }
+
+  section h2 {
+    font-size: 30px;
+  }
+
+  .small-menu {
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
+
+  .main-page__title {
+    max-width: 300px;
+    width: 100%;
+  }
+  .main-page__title span,
+  .main-page__title-other span {
+    font-size: 30px;
+    letter-spacing: 0.2em;
+  }
+  .contacts-title {
+    top: 40vh;
+  }
+  .title-space-small {
+    letter-spacing: 0.1em !important;
+  }
+
+  .title_page-other {
+    top: 30px;
+    line-height: 1.5;
+  }
+
+  .main-page__offer-icon,
+  .main-page__offer-icon_other {
+    display: none;
+  }
+
+  .estate-box {
+    position: relative;
+  }
+
+  .estate__imgs {
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin: 0 auto;
+  }
+  .img-two {
+    bottom: 120px;
+  }
+  .img-one,
+  .img-three {
+    display: none;
+  }
+  .partner-header {
+    text-align: center;
+  }
+
+  .partner-card {
+    margin-bottom: 20px;
+  }
+
+  .slider {
+    max-width: 310px;
+    width: 100%;
+  }
+
+  .feedback__form-text {
+    width: 310px;
+    padding: 20px;
+    top: 0;
+  }
+  .feedback__paragraf {
+    padding: 15px 0 0 0;
+  }
+
+  .client {
+    margin: 0 auto;
+    left: 0;
+  }
+
+  .contact__form {
+    width: 100%;
+  }
+  .contact__form input,
+  .form__button {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .footer__main-page a {
+    display: none;
+  }
+
+  .footer__span {
+    text-align: right;
+  }
+
+  .about-results__clients {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+
+  .about-results__house {
+    padding-top: 20px;
+    font-size: 23px;
+    text-align: center;
+  }
+
+  .move-block__img-house {
+    width: 100%;
+  }
+}
